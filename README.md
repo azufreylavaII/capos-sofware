@@ -1,2 +1,2 @@
 # capos-sofware
-proyecto web react
+proyecto web react cibertec
